@@ -1,1 +1,1 @@
-this is a new text in the file
+this is a new text
