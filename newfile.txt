@@ -1,1 +1,1 @@
-random text
+this is a new text in the file
